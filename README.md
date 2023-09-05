@@ -17,6 +17,8 @@ A list of data sets and sources for medical education innovation, AI/NLP, and re
 
 **Medical Terms and Vocabularies**
 
-*[Wiki Medical Terms](https://huggingface.co/datasets/gamino/wiki_medical_terms) Over 6,000 medical terms and their wikipedia text
+* [Medical Subject Headings from the NLM](https://www.nlm.nih.gov/databases/download/mesh.html) the MeSH vocabulary
+* [ICD-10-CM Codes from CMS.gov](https://www.cms.gov/medicare/icd-10/2023-icd-10-cm)
+* [Wiki Medical Terms](https://huggingface.co/datasets/gamino/wiki_medical_terms) Over 6,000 medical terms and their wikipedia text
 
 
